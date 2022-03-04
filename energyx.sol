@@ -20,10 +20,10 @@
      for  more information follow our Social accounts
 
 
-    TELEGRAM: https://t.me/EnergyXOfficial
-    TWITTER : https://t.me/EnergyBsc
+    TELEGRAM: https://t.me/OfficialSafeEnergyX
+    TWITTER : https://twitter.com/SafeEnergyX
     
-    WEBSİTE   https://www.SafeEnergy.club
+    WEBSITE :  https://safeenergyx.io
     
   */
 pragma solidity ^0.6.0;
